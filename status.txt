@@ -1,1 +1,7 @@
-true
+{
+  "enabled": true,
+  "schema_version": 1,
+  "api_base_url": "https://32.236.86.178/axiomgram/connect",
+  "policy_public_key": "Cdw7+BKvLQN3Dwx11Z9KoN4gqMMgUVTfBwbU/U12AII=",
+  "refresh_seconds": 120
+}
